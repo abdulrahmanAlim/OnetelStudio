@@ -5,4 +5,3 @@ Onetel Studio Desgin.
 * Run apache in xampp control panel 
 * access the website by localhost/(the name of the folder)
 
-* link for screen recording [Link](www.google.com)
